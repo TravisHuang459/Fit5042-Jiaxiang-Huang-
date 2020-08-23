@@ -1,0 +1,33 @@
+.error {
+	color: pink;
+	font-weight: bold;
+}
+
+body {
+  background-image: url("images/back.jpg");
+  background-position: center 0;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -o-background-size: cover;
+  -moz-background-size: cover;
+  -ms-background-size: cover;
+}
+
+#left{
+	float:left;  padding:10px;
+}
+
+#center{
+	float:center; padding:10px;
+}
+#right{
+	float:right; padding:10px;
+}
+
+.div1{
+	background-image: url("images/back2.jpg");
+	width: 1150px;
+	
+}
